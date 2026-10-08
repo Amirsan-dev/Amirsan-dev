@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi guys 👋
 
-<!--
-**Amirsan-dev/Amirsan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>I'm Amir San 👋</p>
 
-Here are some ideas to get you started:
+```javascript
+const information = {
+  name: "Amir",
+  lastname: "Sanatdan",
+  age: 22,
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  currentSkills: [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Tailwind CSS"
+  ],
+
+  inLearning: [
+    "React.js"
+  ],
+
+  goal: "Full-Stack Developer"
+};
+```
+
