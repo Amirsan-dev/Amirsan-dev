@@ -1,10 +1,10 @@
 <h1 align="center">Push Your Self Further</h1>
 <br>
 
-<p>In a world full of limits,<br> I choose to evolve.
+<h3>In a world full of limits,<br> I choose to evolve.
 Every failure is another level to overcome.<br>
 My story is far from over. 🌑
-</p>
+</h3>
 
 <p align="center">
   <img
