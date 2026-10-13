@@ -1,10 +1,10 @@
-<h1 align="center">Push Your Self Further</h1>
+<h1 align="center">Push Yourself Further</h1>
 <br>
 
-<h3>In a world full of limits,<br> I choose to evolve.
+<p>In a world full of limits,<br> I choose to evolve.
 Every failure is another level to overcome.<br>
 My story is far from over. 🌑
-</h3>
+</p>
 
 <p align="center">
   <img
@@ -16,11 +16,14 @@ My story is far from over. 🌑
 </p>
 
 ```javascript
-const InlearningFun = () => {
+const mindset = [
+  "Practice",
+  "Learn",
+  "Improve",
+  "Repeat"
+];
 
-  for( let i = 0 ; i < 9999 ; i++){
-   console.log("Practice , Learn , Improve , Repeat") 
-    }
+console.log(mindset.join(" • "));
  
 }
 ```
