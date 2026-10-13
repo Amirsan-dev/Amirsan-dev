@@ -37,7 +37,7 @@ console.log(mindset.join(" • "));
 </p>
 
 <br>
-<p> Hi Guys <br> I'm Amir San 👋</p>
+<p> Hi Guys <br><b>I'm Amir San 👋</b></p>
 
 <h2>About Me </h2>
 
