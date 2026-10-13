@@ -25,7 +25,6 @@ const mindset = [
 
 console.log(mindset.join(" • "));
  
-}
 ```
 
 <p align="center">
