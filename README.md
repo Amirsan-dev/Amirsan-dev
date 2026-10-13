@@ -1,4 +1,4 @@
-## Hi guys 👋
+
 
 <p>I'm Amir San 👋</p>
 
@@ -21,5 +21,12 @@ const information = {
 
   goal: "Full-Stack Developer"
 };
+
+const InlearningFun = () => {
+  for( let i = 0 ; i < 9999 ; i++){
+   console.log("Practice , Learn , Improve , Repeat") 
+    }
+ 
+}
 ```
 
