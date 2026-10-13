@@ -63,19 +63,19 @@ const information = {
 
 <h2>Let's Connect</h2>
 <br>
-<a href="">
+<a href="https://www.linkedin.com/in/amir-sanatdan-3b85a3377/">
     <img
     src="https://github.com/Amirsan-dev/Amirsan-dev/blob/main/icons8-linkedin.gif?raw=true"
     alt="Animated banner"
   />
 </a>
-<a href="">
+<a href="https://www.instagram.com/amir_san15/">
     <img
     src="https://github.com/Amirsan-dev/Amirsan-dev/blob/main/icons8-instagram%20(1).gif?raw=true"
     alt="Animated banner"
   />
 </a>
-<a href="">
+<a href="https://t.me/amirsan_dev">
     <img
     src="https://github.com/Amirsan-dev/Amirsan-dev/blob/main/icons8-telegram.gif?raw=true"
     alt="Animated banner"
