@@ -1,4 +1,10 @@
-
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Amirsan-dev/Amirsan-dev/main/manzare.gif"
+    width="100%"
+    alt="Animated banner"
+  />
+</p>
 
 <p>I'm Amir San 👋</p>
 
